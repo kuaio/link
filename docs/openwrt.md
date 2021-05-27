@@ -13,7 +13,7 @@
 
 具体的支持型号，请查询 https://downloads.x-wrt.com/rom/
 
-## Shadowsocks 插件安装
+## 安装Shadowsocks 插件
 
 * 如果路由器已经装有Shadowsocks 插件，请忽略本步骤！如果没有，请从上面的地址下载固件，并刷入路由器 [参考教程](https://blog.x-wrt.com/docs/tutorial/)
 
@@ -41,7 +41,7 @@ opkg --no-check-certificate install shadowsocks-libev-ss-tunnel
 ```
 * 以上是通过SSH命令安装插件的一个例子，不同品牌的路由器安装插件的方法和形式不尽相同，此处仅供参考！
 
-## Shadowsocks 插件设置
+## 设置Shadowsocks 插件
 
 * 进入您购买SS节点的网站，准备好`SS节点`信息！
 
