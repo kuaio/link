@@ -33,7 +33,7 @@
 
 * 支持 macOS 10.11+ 系统 
 
-* 打开AppStore，下载`Outline`然后从`Launchpad`启动（`Outline`实现的是全局代理，我们`不建议使用`）
+* 打开AppStore，下载`Outline`然后从`Launchpad`启动（`Outline`实现的是全局代理，一般`不建议使用`）
 
 ![Shadowrocket](media/mac/ot1.gif ':size=720')
 
