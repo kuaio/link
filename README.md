@@ -1,11 +1,12 @@
       
-## 仙贝加速器
+## 快鱼加速器
 
-https://www.xybal.com
+https://www.vofish.com
 
-## 奇轩加速器
+## 雪松加速器
 
-https://www.kystu.com
+https://www.fisong.net
+
 
 ## 套餐说明：
 
