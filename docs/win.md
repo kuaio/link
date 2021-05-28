@@ -1,5 +1,5 @@
 
-!> Shadowsocks 和 SSTap，二选一即可！备用下载： [Shadowsocks](https://www.5nd.xyz/win/win.zip)  或   [SSTap](https://www.5nd.xyz/win/sstap.zip) 
+!> Shadowsocks 和 SSTap，二选一即可！备用下载： [Shadowsocks](https://www.5nd.xyz/media/win/win.zip)  或   [SSTap](https://www.5nd.xyz/media/win/sstap.zip) 
 
 ## Shadowsocks (小飞机)
 
