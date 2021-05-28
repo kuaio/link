@@ -1,4 +1,4 @@
-!> 为防止Android 杀后台，请设置后台运行！备用下载：[Shadowsocks](https://www.5nd.xyz/android/ss.apk)
+!> 为防止Android 杀后台，请设置后台运行！备用下载：[Shadowsocks](https://www.5nd.xyz/media/android/ss.apk)
 
 ## Shadowsocks（小飞机）
 
