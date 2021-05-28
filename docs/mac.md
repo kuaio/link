@@ -1,4 +1,4 @@
-!> 建议更新系统到 macOS 10.12 以上！备用下载：[ShadowsocksX-NG](https://www.5nd.xyz/mac/ShadowsocksX-NG.zip)
+!> 建议更新系统到 macOS 10.12 以上！备用下载：[ShadowsocksX-NG](https://www.5nd.xyz/media/mac/ShadowsocksX-NG.zip)
 
 ## ShadowsocksX-NG
 
