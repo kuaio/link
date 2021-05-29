@@ -21,7 +21,7 @@
 
 ## Linux/MacOS 
 
-* 打开`终端`输入`ssh -v -p 端口 root@服务器地址`结果出现`Connection established`说明成功！
+* 打开`终端`输入`nc -vz -w1 服务器地址 端口`连测三次，结果都显示`succeeded!`说明成功！
 
 ![test](media/linux/test.gif ':size=640')
 
