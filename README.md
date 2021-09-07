@@ -3,11 +3,6 @@
 
 https://www.vofish.com
 
-## 雪松加速器
-
-https://www.fisong.net
-
-
 ## 套餐说明：
 
 普通套餐：美国 + 日本
