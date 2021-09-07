@@ -23,6 +23,8 @@ https://www.vofish.com
 
 ## VPS 推荐：
 
-* [BandwagonHost](https://bandwagonhost.com/aff.php?aff=39080)
-
 * [Vultr](https://www.vultr.com/?ref=8245248)
+
+* [Linode](https://www.linode.com/?r=e86fb9ef58cd6a51c8d2dab3485cea85e1af6e27)
+
+* [BandwagonHost](https://bandwagonhost.com/aff.php?aff=39080)
