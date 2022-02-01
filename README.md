@@ -1,7 +1,7 @@
       
 ## 快鱼加速器
 
-https://www.vofish.com
+https://www.kkeyu.com
 
 ## 套餐说明：
 
