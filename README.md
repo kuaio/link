@@ -1,7 +1,10 @@
-      
 ## 快鱼加速器
 
 https://www.kkeyu.com
+
+## 特斯加速器
+
+https://www.teshx.com
 
 ## 套餐说明：
 
@@ -9,16 +12,16 @@ https://www.kkeyu.com
 
 高端套餐：美国 + 日本 + 新加坡 + 香港
 
-## 注意：
+娱乐套餐：美国 + 日本 + 新加坡 + 香港 + 韩国
 
-部分用户如打不开网站请修改DNS为 8.8.8.8（或 114.114.114.114）
+温馨提示：半年高端套餐含 + 欧洲CN2-GIA路线
 
-不同系统修改DNS的方法略有差异，具体如何修改请自行百度搜索！
-
-## VPS 推荐：
+## VPS推荐：
 
 * [Vultr](https://www.vultr.com/?ref=8245248)
 
-* [搬瓦工](https://bwh81.net/aff.php?aff=39080)
-
 * [Linode](https://www.linode.com/?r=e86fb9ef58cd6a51c8d2dab3485cea85e1af6e27)
+
+## 韩国VPS：
+
+* [kdatacenter](https://www.kdatacenter.com)
