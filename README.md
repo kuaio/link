@@ -6,11 +6,6 @@ https://www.kkeyu.com
 
 https://www.teshx.com
 
-
-## 教程网址：
-
-https://kuaio.github.io/link
-
 ## 套餐说明：
 
 普通套餐：美国 + 日本
@@ -20,6 +15,10 @@ https://kuaio.github.io/link
 娱乐套餐：美国 + 日本 + 新加坡 + 香港 + 韩国
 
 温馨提示：半年高端套餐含 + 欧洲CN2-GIA路线
+
+## 教程网址：
+
+https://kuaio.github.io/link
 
 ## VPS推荐：
 
