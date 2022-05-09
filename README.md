@@ -6,6 +6,11 @@ https://www.kkeyu.com
 
 https://www.teshx.com
 
+
+## 教程网址：
+
+https://kuaio.github.io/link
+
 ## 套餐说明：
 
 普通套餐：美国 + 日本
