@@ -32,6 +32,16 @@ sed -i "s/^export http.*//g" ~/.profile
 
 ```
 
+`[2]` 如何重新绑定代理？
+
+打开`终端`，执行下面的命令，`重新绑定代理！`[`需重启系统才能生效`]
+
+```
+echo 'export http_proxy=http://127.0.0.1:7890'>> ~/.profile && \
+echo 'export https_proxy=http://127.0.0.1:7890'>> ~/.profile 
+
+```
+
 ## Shadowsocks-libev 
 
 `Ubuntu/Debian`-`安装命令`
