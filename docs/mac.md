@@ -28,9 +28,9 @@
 
 * 支持 macOS 10.12+ 系统
 
-* 点击下载 <a href="media/mac/ShadowsocksX-NG.dmg" target="_blank">ShadowsocksX-NG</a>，然后`拖拽`到`应用程序`栏，最后从`启动台`打开`ShadowsocksX-NG`
+* 下载安装 <a href="media/mac/ShadowsocksX-NG.dmg" target="_blank">ShadowsocksX-NG</a>，打开`系统设置`-->`隐私与安全性`-->`已阻止使用"Sha…"`-->`仍要打开`
 
-![ShadowsocksX-NG](media/mac/sx_1.gif ':size=720')
+![ShadowsocksX-NG](media/mac/sx_1.jpg ':size=720')
 
 * 登入您购买`SS节点`的网站，复制节点的`二维码链接`[每个节点都对应一个`二维码`和`二维码链接`]
 
