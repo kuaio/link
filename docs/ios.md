@@ -2,7 +2,7 @@
 
 ## Shadowrocket (小火箭)
 
-* 支持 iOS 9+ 系统
+* 支持 iOS 12+ 系统
 
 * [更换美区账号](https://app.derk.top) 后点击下载 [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
