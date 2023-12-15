@@ -22,8 +22,6 @@
 
 * 如提示`帐户已在 App Store 被禁用`，请先删掉手机里的旧版`Shadowrocket`
 
-### 快速订阅
-
 一、登入您购买`SS节点`的网站，`订阅链接`-->`Shadowrocket`-->`导入App`
 
 ![apple](media/apple/srsub_1.jpg ':size=360')
@@ -41,8 +39,6 @@
 * [更换美区账号](ios?id=更换美区账号) 后点击下载 [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)
 
 * 如提示`帐户已在 App Store 被禁用`，请先删掉手机里的旧版`Stash`
-
-### 快速订阅
 
 一、登入您购买`SS节点`的网站，`订阅链接`-->`clash`-->`导入App`
 
