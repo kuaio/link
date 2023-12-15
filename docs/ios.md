@@ -24,8 +24,6 @@
 
 ### 快速订阅
 
-**此法一次添加所有节点**
-
 一、登入您购买`SS节点`的网站，`订阅链接`-->`Shadowrocket`-->`导入App`
 
 ![apple](media/apple/srsub_1.jpg ':size=360')
@@ -36,26 +34,6 @@
 
 如无法导入，请复制订阅连接-->打开`小火箭`-->右上角`+`-->类型`Subscribe`-->`URL`-->`保存`
 
-### 逐个添加
-
-**此法每次添加一个节点**
-
-一、登入您购买`SS节点`的网站，复制`二维码链接`[每个节点都对应一个`二维码链接`]
-
-![Shadowrocket](media/apple/sr_1.jpg ':size=360')
-
-二、打开小火箭-->自动检测到`SS链接`-->点击`添加`[`重复操作`添加其他节点到App]
-
-![Shadowrocket](media/apple/sr_2.jpg ':size=360')
-
-三、`另种方法`添加节点：点击`SS节点`的二维码 [点两次]-->检测到`SS链接`-->`打开`
-
-![Shadowrocket](media/apple/sr_3.jpg ':size=360')
-
-四、`选择节点`-->`连接/断开`首次使用会提示添加代理-->点击`Allow`允许VPN连接！
-
-![Shadowrocket](media/apple/sr_4.jpg ':size=360')
-
 ## Stash - (Clash 内核)
 
 * 支持 iOS 13+ 系统
@@ -65,8 +43,6 @@
 * 如提示`帐户已在 App Store 被禁用`，请先删掉手机里的旧版`Stash`
 
 ### 快速订阅
-
-**此法一次添加所有节点**
 
 一、登入您购买`SS节点`的网站，`订阅链接`-->`clash`-->`导入App`
 
