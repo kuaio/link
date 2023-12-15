@@ -1,24 +1,10 @@
-## 更换美区账号{docsify-ignore}
-
-* 打开`App Store`-->`右上角头像`-->`下拉到底部`-->`退出登录`，再登录`美区账号`[图下方]
-
-* 登陆时如有安全提示-->`其他选项`-->`不升级`
-
-![apple](media/apple/id.jpg ':size=360')
-
-[<a href="javascript:getid(0);">点击查看美区账号</a>] &nbsp;&nbsp;&nbsp;&nbsp;[<a href="javascript:getid(1);">点击查看备用账号</a>]
-
-<div style="color:Blue" id="jsonTip"></div>
-
-!> 下载完App后，请退出`美区账号`，以避免各种`潜在的安全问题！`
-
 !> `不要`在手机的`设置`里登录`美区账号`。否则，可能会`变成砖头！`
 
 ## Shadowrocket (小火箭)
 
 * 支持 iOS 9+ 系统
 
-* [更换美区账号](ios?id=更换美区账号) 后点击下载 [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
+* [更换美区账号](https://app.derk.top) 后点击下载 [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
 * 如提示`帐户已在 App Store 被禁用`，请先删掉手机里的旧版`Shadowrocket`
 
@@ -36,7 +22,7 @@
 
 * 支持 iOS 13+ 系统
 
-* [更换美区账号](ios?id=更换美区账号) 后点击下载 [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)
+* [更换美区账号](https://app.derk.top) 后点击下载 [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)
 
 * 如提示`帐户已在 App Store 被禁用`，请先删掉手机里的旧版`Stash`
 
