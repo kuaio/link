@@ -5,7 +5,7 @@ https://kuee.top
 
 ## 小可加速器
 
-https://xoko.top
+https://xoke.top
  
 ## 套餐说明：
 
