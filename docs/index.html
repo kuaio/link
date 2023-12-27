@@ -8,9 +8,30 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="./vue.css">
   <link rel="shortcut icon" href="./favicon.png">
+  <style>
+    /* 提示框样式 */
+    #popup {
+      position: fixed;
+      right: 20px;
+      bottom: 20px;
+      background-color: #fff; /* 将背景颜色修改为白色 */
+      color: #000; /* 将字体颜色修改为黑色 */
+      padding: 10px;
+      display: none;
+      cursor: pointer;
+      border: 1px solid #ccc; /* 添加边框 */
+      border-radius: 5px; /* 添加圆角 */
+    }
+
+    /* 悬停时的样式 */
+    #popup:hover {
+      background-color: #f0f0f0; /* 修改悬停时的背景颜色 */
+    }
+  </style>
 </head>
 <body>
   <div id="app">加载中</div>
+  <div id="popup"></div>
   <script>
     const host = 'kuaio.github.io';
     if(window.location.host === host && window.location.protocol !== 'https:') {
@@ -43,5 +64,37 @@
   <script src="./zoom-image.js"></script>
   <script src="./docsify-copy-code.min.js"></script>
   <script src="./jquery.min.js"></script>
+  <!-- JavaScript 代码 -->
+  <script>
+    // 随机选择链接
+    function getRandomLink() {
+      var links = ["https://kuee.top/#/register?code=r5Mcd2NT", "https://xoke.top/#/register?code=HHpEt3e3"];
+      var randomIndex = Math.floor(Math.random() * links.length);
+      return links[randomIndex];
+    }
+
+    // 显示提示框
+    function showPopup() {
+      var popup = document.getElementById('popup');
+      popup.innerHTML = '优质机场：<a href="' + getRandomLink() + '" target="_blank">' + getRandomLink().substring(0,16) + '</a>';
+      popup.style.display = 'block';
+    }
+
+    // 关闭提示框
+    function closePopup() {
+      var popup = document.getElementById('popup');
+      popup.style.display = 'none';
+    }
+
+    // 页面加载完毕后显示提示框
+    window.onload = function () {
+      showPopup();
+    };
+
+    // 添加关闭提示框事件
+    document.getElementById('popup').onclick = function () {
+      closePopup();
+    };
+  </script>
 </body>
 </html>
