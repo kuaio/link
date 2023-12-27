@@ -18,7 +18,7 @@
 
 如无法导入，请复制订阅连接-->打开`小火箭`-->右上角`+`-->类型`Subscribe`-->`URL`-->`保存`
 
-## Stash - (Clash 内核)
+## Stash - (Clash for iOS)
 
 * 支持 iOS 13+ 系统
 
