@@ -1,4 +1,4 @@
-## Clash (🐱小蓝猫) 
+## Clash for Windows
 
 **简称`CFW`是跨平台的`Clash`代理工具，支持`Windows、Mac和Linux`图形平台**
 
