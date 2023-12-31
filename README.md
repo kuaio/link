@@ -1,11 +1,11 @@
 
 ## 快鱼加速器
 
-https://kuee.top
+https://3ku.site
 
 ## 小可加速器
 
-https://xoke.top
+https://3xk.site
  
 ## 套餐说明：
 
