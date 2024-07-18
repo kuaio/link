@@ -1,3 +1,6 @@
+## 第三方教程网
+
+[https://kuaio.github.io/link/#/](https://kuaio.github.io/link/#/)
 
 ## 一键部署命令
 
