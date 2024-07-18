@@ -1,17 +1,5 @@
 
-## 快鱼加速器
-
-https://3ku.site
-
-## 小可加速器
-
-https://3xk.site
- 
-## 套餐说明：
-
-普通套餐：美国 + 日本 + 香港
-
-高端套餐：美国 + 日本 + 香港 + 欧盟 + 韩国 + 新加坡
+## 一键部署命令
 
 ```
 apt update && apt install unzip -y && wget https://raw.githubusercontent.com/stuvn/link/master/xray.sh && chmod +x xray.sh && bash xray.sh
@@ -26,8 +14,6 @@ apt update && apt install unzip -y && wget https://raw.githubusercontent.com/stu
 ## 优质VPS：
 
 * [wiki](https://idc.wiki/aff.php?aff=2538)
-
-* [DMIT](https://www.dmit.io/aff.php?aff=3149)
 
 * [iON Cloud](https://ion.krypt.com/aff.php?aff=1646)
 
